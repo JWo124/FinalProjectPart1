@@ -6,7 +6,7 @@
    
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <JWO124>
+   # JWO124
    
    # Input:
    # p, principal amount
