@@ -1,7 +1,8 @@
 # FinalProjectPart1
 
 This project is our first step to moving our code to Git :) 
-File simple-interest.sh contains the example of code. Feel free to change and get experiences with Git  
+File simple-interest.sh contains the example of code. 
+Feel free to change it or add new samüles to get experiences with Git!  
 
 Please consider the below factors while contributing
 
